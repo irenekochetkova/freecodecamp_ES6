@@ -18,7 +18,7 @@ function getLength(str) {
   "use strict";
 
   // change code below this line
- const {length:len} = str; // change this
+ const {length:len} = str; // change this// len = str.length;
   // change code above this line
 
   return len; // you must assign length to len in line
